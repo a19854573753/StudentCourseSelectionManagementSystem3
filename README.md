@@ -4,7 +4,7 @@
 
 # 265.StudentCourseSelectionManagementSystem3
 
-<p>V：bishebao888888(sql文件)</p>
+<p>抠群: 983063232(sql文件)</p>
 <p>抠: 206157502(sql文件)</p>
 
 <p><h1 align="center">265.学生选课管理系统</h1></p>
